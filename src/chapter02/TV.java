@@ -61,7 +61,7 @@ public class TV {
 		}	
 		
 	}
-
+ 
 	public void channel(Boolean channel) {
 		if(this.channel > 0 && this.channel < 255) {
 			if(channel)
